@@ -1,5 +1,5 @@
 const canvas = document.querySelector("#js-canvas");
-
+// asdadklasjdlkasjd
 let painting = false;
 
 function stopPainting() {
