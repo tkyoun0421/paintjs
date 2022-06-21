@@ -1,6 +1,8 @@
 const canvas = document.querySelector("#js-canvas");
 const ctx = canvas.getContext("2d");
 
+canvas.width = 700;
+canvas.height = 700;
 ctx.strokeStyle = "#2c2c2c";
 ctx.lineWidth = 2.5;
 
